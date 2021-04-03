@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_send">Отправить</string>
+    <string name="messText">Текст сообщения</string>
+    <string name="host">Хост</string>
+    <string name="port">Порт</string>
+</resources>
